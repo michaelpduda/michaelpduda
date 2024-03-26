@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on creating software for producing electronic music live.
 - 📫 How to reach me:
   - Email: [michael@pulselyre.com](mailto:michael@pulselyre.com)
+  - LinkedIn: [Michael Duda](https://www.linkedin.com/in/michaelpduda/)
   - X: [@Pulselyre](https://twitter.com/pulselyre)
 - 😄 Pronouns: He/Him
 <!--
