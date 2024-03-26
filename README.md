@@ -1,10 +1,12 @@
-- 🔭 I’m currently working on [Pulselyre](https://www.pulselyre.com/) and [@UpbeatUI](https://github.com/Pulselyre/UpbeatUI).
-- 🌱 I’m currently learning about MIDI sequencing (using [@NAudio](https://github.com/naudio/NAudio)).
-- 👯 I’m looking to collaborate on creating technology to produce electronic music live.
-- 📫 How to reach me: [michael@pulselyre.com](mailto:michael@pulselyre.com)
+- 🔭 I’m currently working on [Pulselyre](https://www.pulselyre.com/) and [UpbeatUI](https://github.com/Pulselyre/UpbeatUI).
+- 🌱 I’m currently learning about creating music using MIDI sequencing (with [@NAudio](https://github.com/naudio/NAudio)).
+- 👯 I’m looking to collaborate on creating software for producing electronic music live.
+- 📫 How to reach me:
+  - Email: [michael@pulselyre.com](mailto:michael@pulselyre.com)
+  - X: [@Pulselyre](https://twitter.com/pulselyre)
+- 😄 Pronouns: He/Him
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
